@@ -1,0 +1,11 @@
+.below_menu_container {
+  padding-top: 52px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+color: white;
+}
+
+.photo{
+border-radius: 8px;
+}
